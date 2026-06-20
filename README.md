@@ -8,7 +8,7 @@ Hola a todos. Bienvenidos a mi portal donde podrán encontrar información sobre
 * Nombre: Alexander
 * Ocupación: Estudiante de ingenieria en ciencia de datos e inteligencia artificial
 * Lugar de residencia: Ecuador
-* [Repositorios:](https://github.com/anthmosq?tab=repositories)
+* [Repositorios](https://github.com/anthmosq?tab=repositories)
 ## Proyectos
 * [Análisis de datos de divorcios INEC](https://colab.research.google.com/drive/1abqEvJLBhlJWKuZg2ejz3kB8DOtIwNL6?usp=sharing) 
 * [Análisis de datos en Power BI](./EXAMEN%20POWER%20BI-1.pbix?raw=true)
