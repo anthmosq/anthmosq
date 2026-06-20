@@ -1,4 +1,4 @@
-# Mi sitio personal
+# Portal informativo
 Hola a todos. Bienvenidos a mi portal donde podrán encontrar información sobre mí, mis proyectos y las tecnologías aprendidas.
 ## Contenido
 * [Información personal](#información-personal)
