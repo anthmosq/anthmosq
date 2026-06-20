@@ -1,15 +1,15 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+Hola a todos,quí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Alexander
-* Ocupación: Estudiante de ingenieria en cien
-* Lugar de residencia: [Tu lugar de residencia]
+* Ocupación: Estudiante de ingenieria en ciencia de datos e inteligencia artificial
+* Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* [Análisis de datos de divorcios INEC] (https://colab.research.google.com/drive/1abqEvJLBhlJWKuZg2ejz3kB8DOtIwNL6?usp=sharing)
 ## Intereses
-* [Lista de tus intereses]
+* 
