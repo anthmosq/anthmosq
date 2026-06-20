@@ -10,6 +10,6 @@ Hola a todos,quí puedes encontrar información sobre mí, mis proyectos y mis i
 * Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Análisis de datos de divorcios INEC] (https://colab.research.google.com/drive/1abqEvJLBhlJWKuZg2ejz3kB8DOtIwNL6?usp=sharing)
+* [Análisis de datos de divorcios INEC] (#https://colab.research.google.com/drive/1abqEvJLBhlJWKuZg2ejz3kB8DOtIwNL6?usp=sharing)
 ## Intereses
 * 
