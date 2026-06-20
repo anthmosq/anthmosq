@@ -5,7 +5,7 @@ Hola a todos. Bienvenidos a mi portal donde podrán encontrar información sobre
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Alexander
+* Nombre y apellido: Alexander Mosquera
 * Ocupación: Estudiante de ingenieria en ciencia de datos e inteligencia artificial
 * Lugar de residencia: Ecuador
 * [Repositorios](https://github.com/anthmosq?tab=repositories)
